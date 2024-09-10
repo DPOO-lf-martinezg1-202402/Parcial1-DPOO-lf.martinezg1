@@ -26,7 +26,7 @@ public abstract class Pieza {
 	}
 	
 	//metodos analiticos
-	
+	//retorna 0 si se sale del tablero
 	public abstract int contarCasillas();
 	
 }
